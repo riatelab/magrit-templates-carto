@@ -1,0 +1,58 @@
+{
+    "france_communes_epci_etc": {
+        "fr": {
+            "name": "France M\u00e9tropolitaine + DOM (Communes)",
+            "description": "Template France M\u00e9tropolitaine + DOM (Communes) bas\u00e9 GeoFLA 2016 v2.2 (trac\u00e9 des communes avec polygones de Voronoi)"
+        },
+        "en": {
+            "name": "",
+            "description": ""
+        },
+        "es": {
+            "name": "",
+            "description": ""
+        }
+    },
+    "france_departements": {
+        "fr": {
+            "name": "France M\u00e9tropolitaine + DOM (D\u00e9partements / R\u00e9gions)",
+            "description": "Template France M\u00e9tropolitaine + DOM (D\u00e9partements / R\u00e9gions) bas\u00e9 sur GeoFLA 2016 v2.2"
+        },
+        "en": {
+            "name": "",
+            "description": ""
+        },
+        "es": {
+            "name": "",
+            "description": ""
+        }
+    },
+    "paris_quartiers": {
+        "fr": {
+            "name": "Quartiers de Paris",
+            "description": "Quartiers de Paris avec leurs identifiants + couches d'habillage (communes du Grand Paris, trac\u00e9 du cours d'eau et espaces verts"
+        },
+        "en": {
+            "name": "",
+            "description": ""
+        },
+        "es": {
+            "name": "",
+            "description": ""
+        }
+    },
+    "europe_nuts2": {
+        "fr": {
+            "name": "Nuts 2 (avec territoires ultra-p\u00e9riph\u00e9riques)",
+            "description": "Nuts 2 (avec territoires ultra-p\u00e9riph\u00e9riques)"
+        },
+        "en": {
+            "name": "",
+            "description": ""
+        },
+        "es": {
+            "name": "",
+            "description": ""
+        }
+    }
+}
