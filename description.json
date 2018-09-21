@@ -5,8 +5,8 @@
             "description": "Template France M\u00e9tropolitaine + DOM (Communes) bas\u00e9 GeoFLA 2016 v2.2 (trac\u00e9 des communes avec polygones de Voronoi)"
         },
         "en": {
-            "name": "",
-            "description": ""
+            "name": "Metropolitan France + DOM (municipalities)",
+            "description": "Metropolitan France + DOM (municipalities) template based on GeoFLA 2016 v2.2 (layout of municipalities with Voronoi polygons)"
         },
         "es": {
             "name": "",
@@ -19,8 +19,8 @@
             "description": "Template France M\u00e9tropolitaine + DOM (D\u00e9partements / R\u00e9gions) bas\u00e9 sur GeoFLA 2016 v2.2"
         },
         "en": {
-            "name": "",
-            "description": ""
+            "name": "Metropolitan France + DOM (departments / regions)",
+            "description": "Metropolitan France + DOM departments / regions) template based on GeoFLA 2016 v2.2"
         },
         "es": {
             "name": "",
@@ -30,11 +30,11 @@
     "paris_quartiers": {
         "fr": {
             "name": "Quartiers de Paris",
-            "description": "Quartiers de Paris avec leurs identifiants + couches d'habillage (communes du Grand Paris, trac\u00e9 du cours d'eau et espaces verts"
+            "description": "Quartiers de Paris avec leurs identifiants + couches d'habillage (communes du Grand Paris et trac\u00e9 du cours d'eau)"
         },
         "en": {
-            "name": "",
-            "description": ""
+            "name": "Neighborhoods of Paris",
+            "description": "Neighborhoods of Paris with their identifiers + layout layers (municipalities of Greater Paris and Seine watercourse)"
         },
         "es": {
             "name": "",
@@ -43,12 +43,12 @@
     },
     "europe_nuts2": {
         "fr": {
-            "name": "Nuts 2 (avec territoires ultra-p\u00e9riph\u00e9riques)",
-            "description": "Nuts 2 (avec territoires ultra-p\u00e9riph\u00e9riques)"
+            "name": "Nuts 2 (avec territoires ultrap\u00e9riph\u00e9riques)",
+            "description": "Nuts 2 (avec territoires ultrap\u00e9riph\u00e9riques) et couches d'habillages (pays voisins dans l'emprise du template, etc.)"
         },
         "en": {
-            "name": "",
-            "description": ""
+            "name": "Nuts 2 (with Outermost territories)",
+            "description": "Nuts 2 (with Outermost territories) and layout layers (neighboring countries in the extent of the template, etc.)"
         },
         "es": {
             "name": "",
