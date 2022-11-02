@@ -1,58 +1,58 @@
 {
-    "france_communes_epci_etc": {
-        "fr": {
-            "name": "France M\u00e9tropolitaine + DOM (Communes)",
-            "description": "Template France M\u00e9tropolitaine + DOM (Communes) bas\u00e9 GeoFLA 2016 v2.2 (trac\u00e9 des communes avec polygones de Voronoi)"
-        },
-        "en": {
-            "name": "Metropolitan France + DOM (municipalities)",
-            "description": "Metropolitan France + DOM (municipalities) template based on GeoFLA 2016 v2.2 (layout of municipalities with Voronoi polygons)"
-        },
-        "es": {
-            "name": "",
-            "description": ""
-        }
+  "france_2022": {
+    "fr": {
+      "name": "France Métropolitaine + DOM (Zones d'emploi, Aires d'attractions des villes, Établissements de Coopération Intercommunale), 2022",
+      "description": "France Métropolitaine + DOM (Zones d'emploi, Aires d'attractions des villes, Établissements de Coopération Intercommunale, régions et départements) basé ADMIN-EXPRESS-COG, 2022, France entière."
     },
-    "france_departements": {
-        "fr": {
-            "name": "France M\u00e9tropolitaine + DOM (D\u00e9partements / R\u00e9gions)",
-            "description": "Template France M\u00e9tropolitaine + DOM (D\u00e9partements / R\u00e9gions) bas\u00e9 sur GeoFLA 2016 v2.2"
-        },
-        "en": {
-            "name": "Metropolitan France + DOM (departments / regions)",
-            "description": "Metropolitan France + DOM departments / regions) template based on GeoFLA 2016 v2.2"
-        },
-        "es": {
-            "name": "",
-            "description": ""
-        }
+    "en": {
+      "name": "Metropolitan France + DOM (employment areas, city catchment areas, inter-communal cooperation establishments), 2022",
+      "description": "Metropolitan France + DOM (employment areas, city catchment areas, inter-communal cooperation establishments, regions and departments) template based on ADMIN-EXPRESS-COG, 2022."
     },
-    "paris_quartiers": {
-        "fr": {
-            "name": "Quartiers de Paris",
-            "description": "Quartiers de Paris avec leurs identifiants + couches d'habillage (communes du Grand Paris et trac\u00e9 du cours d'eau)"
-        },
-        "en": {
-            "name": "Neighborhoods of Paris",
-            "description": "Neighborhoods of Paris with their identifiers + layout layers (municipalities of Greater Paris and Seine watercourse)"
-        },
-        "es": {
-            "name": "",
-            "description": ""
-        }
-    },
-    "europe_nuts2": {
-        "fr": {
-            "name": "Nuts 2 (avec territoires ultrap\u00e9riph\u00e9riques)",
-            "description": "Nuts 2 (avec territoires ultrap\u00e9riph\u00e9riques) et couches d'habillages (pays voisins dans l'emprise du template, etc.)"
-        },
-        "en": {
-            "name": "Nuts 2 (with Outermost territories)",
-            "description": "Nuts 2 (with Outermost territories) and layout layers (neighboring countries in the extent of the template, etc.)"
-        },
-        "es": {
-            "name": "",
-            "description": ""
-        }
+    "es": {
+      "name": "Francia metropolitana + DOM (zonas de empleo, zonas de captación de la ciudad, establecimientos de cooperación intercomunitaria), 2022",
+      "description": "Francia metropolitana + DOM (zonas de empleo, zonas de captación de las ciudades, establecimientos de cooperación intercomunitaria, regiones y departamentos) modelo basado en ADMIN-EXPRESS-COG, 2022."
     }
+  },
+  "france_2022_communes": {
+    "fr": {
+      "name": "France Métropolitaine + DOM (communes), 2022",
+      "description": "France Métropolitaine + DOM (communes, régions et départements) basé ADMIN-EXPRESS-COG, 2022, France entière."
+    },
+    "en": {
+      "name": "Metropolitan France + DOM (municipalities), 2022",
+      "description": "Metropolitan France + DOM (municipalities, regions and departments) template based on ADMIN-EXPRESS-COG, 2022."
+    },
+    "es": {
+      "name": "Francia metropolitana + DOM (municipalidades), 2022",
+      "description": "Francia metropolitana + DOM (municipalidades, regiones y departamentos) modelo basado en ADMIN-EXPRESS-COG, 2022."
+    }
+  },
+  "europe_nuts_2020": {
+    "fr": {
+      "name": "NUTS 2 et NUTS 3 (avec territoires ultrapériphériques), 2020",
+      "description": "NUTS 2 et NUTS 3 (avec territoires ultrapériphériques) et couches d'habillages (boxes, pays voisins dans l'emprise du template, etc.)."
+    },
+    "en": {
+      "name": "NUTS 2 and NUTS 3 (with outermost territories), 2020",
+      "description": "NUTS 2 and NUTS 3 (with outermost territories) and layout layers (boxes, neighboring countries in the template, etc.)."
+    },
+    "es": {
+      "name": "NUTS 2 y NUTS 3 (con los territorios ultraperiféricos), 2020",
+      "description": "NUTS 2 y NUTS 3 (con los territorios ultraperiféricos) y otras capas (casillas, países vecinos de la zona de la plantilla, etc.)."
+    }
+  },
+  "paris_quartiers": {
+    "fr": {
+      "name": "Quartiers de Paris",
+      "description": "Quartiers de Paris avec leurs identifiants + couches d'habillage (communes du Grand Paris et tracé du cours d'eau)"
+    },
+    "en": {
+      "name": "Neighborhoods of Paris",
+      "description": "Neighborhoods of Paris with their identifiers + layout layers (municipalities of Greater Paris and Seine watercourse)"
+    },
+    "es": {
+      "name": "Distritos de París",
+      "description": "Distritos de París con sus identificadores + capas de aderezo (municipios de la zona del Gran París y trazado de los cursos de agua)"
+    }
+  }
 }
