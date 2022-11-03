@@ -1,0 +1,45 @@
+Template Europe
+---------------
+
+Template created with sf, giscoR, mapinsetr R libraries.
+Copyright ©EuroGeographics for the administrative boundaries ; (cc) RIATE for map template.
+
+Overseas territories (Canarias, Madeire, Açores, Guadeloupe, Martinique, Réunion, Guyane and Mayotte) are reprojected, moved and resized to appear on the main map in specific boxes.
+
+All the layers are in geojson format, in latitude/longitude (WGS84). To be correctly displayed, they need to be transformed in the European reference projection (ETRS89/LAEA Europe, EPSG:3035).
+
+Made by : Ronan Ysebaert (@rysebaert on GitHub)
+
+
+NUTS2-3 (version 2020) layers attributes
+----------------------------------------
+
+- NUTS_ID : NUTS id code
+- NAME_LATIN : NUTS name in local language, transliterated to Latin script
+- URBN_TYPE : Urban-rural typology for NUTS3 regions (1: predominantly urban regio ; 2: intermediate region; 3 predominantly rural
+- MOUNT_TYPE : Mountain typology for NUTS 3 region (1: "where more than 50 % of the surface is covered by topographic mountain areas" ; 2: "in which more than 50 % of the regional population lives in topographic mountain areas"; 3: "where more than 50 % of the surface is covered by topographic mountain areas and where more than 50 % of the regional population lives in these mountain areas", 4: non-mountain region / other region, 0: no classification provided (e.g. in the case of NUTS 1 and NUTS 2 and non-EU countries)
+- COAST_TYPE : Coastal typology for NUTS3 regions (1: coastal (on coast), 2: coastal (>= 50% of population living within 50km of the coastline), 3: non-coastal region}, 0: no classification provided (e.g. in the case of NUTS 1 and NUTS 2 regions).
+- AREA_2021 : Total area in 2021 (or 2019-2020 if missing values, Eurostat table reg_area3)
+- POP_2021 : Total population in 2021 (or 2019-2020 if missing values, Eurostat table demo_r_pjanaggr3)
+- DENS_2021 : Population density (inh. per sq. km, POP_2021 / AREA_2021).
+
+Functional Urban Areas and cities (version 2021) layers attributes
+------------------------------------------------------------------
+
+- URAU_CODE : FUA or city code
+- URAU_NAME : FUA or city name
+- CITY_CPTL : Is a capital ? (Y: yes)
+- AREA : Total area in square kilometers
+- POP : Total population
+- POP_YEAR : Reference year for the total population
+- DENS : Population density (inh. per sq. km, POP/AREA)
+
+Additional layers
+-----------------
+
+This map template is built with several layout layers : world countries (main map and in boxes), world boundaries (main map and in boxes) and boxes.
+
+More information, code, etc.
+----------------------------
+
+Feel free to open an issue on this repository or on Magrit issue tracker if you need more information or want to get access to the R code that was used to prepare this template.
