@@ -29,16 +29,16 @@
   },
   "europe_nuts_2020": {
     "fr": {
-      "name": "NUTS 2 et NUTS 3 (avec territoires ultrapériphériques), 2020",
-      "description": "NUTS 2 et NUTS 3 (avec territoires ultrapériphériques) et couches d'habillages (boxes, pays voisins dans l'emprise du template, etc.)."
+      "name": "NUTS 2, NUTS 3 et Aires Fonctionnelles Urbaines (avec territoires ultrapériphériques), 2020",
+      "description": "NUTS 2, NUTS 3 et Aires Fonctionnelles Urbaines (avec territoires ultrapériphériques) et couches d'habillages (boxes, pays voisins dans l'emprise du template, etc.)."
     },
     "en": {
-      "name": "NUTS 2 and NUTS 3 (with outermost territories), 2020",
-      "description": "NUTS 2 and NUTS 3 (with outermost territories) and layout layers (boxes, neighboring countries in the template, etc.)."
+      "name": "NUTS 2, NUTS 3 and Urban Functional Areas (with outermost territories), 2020",
+      "description": "NUTS 2, NUTS 3 and Urban Functional Areas (with outermost territories) and layout layers (boxes, neighboring countries in the template, etc.)."
     },
     "es": {
-      "name": "NUTS 2 y NUTS 3 (con los territorios ultraperiféricos), 2020",
-      "description": "NUTS 2 y NUTS 3 (con los territorios ultraperiféricos) y otras capas (casillas, países vecinos de la zona de la plantilla, etc.)."
+      "name": "NUTS 2, NUTS 3 y Áreas Funcionales Urbanas (con los territorios ultraperiféricos), 2020",
+      "description": "NUTS 2, NUTS 3 y Áreas Funcionales Urbanas (con los territorios ultraperiféricos) y otras capas (casillas, países vecinos de la zona de la plantilla, etc.)."
     }
   },
   "paris_quartiers": {
